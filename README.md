@@ -19,10 +19,11 @@ Install my-project with https://jitpack.io/
 
 ```bash
   dependencies {
-	        implementation 'com.github.Mori-hub:'
+	        implementation 'com.github.Mori-hub:Advanced_FAB:1.0.0'
 	}
 ```
-    
+  [![](https://jitpack.io/v/Mori-hub/Advanced_FAB.svg)](https://jitpack.io/#Mori-hub/Advanced_FAB)
+  
 ## 🧰Usage
 
 ```javascript
